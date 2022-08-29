@@ -1,4 +1,6 @@
 Let say this is one of the example file for the studying git.
 Github is one of the platform to implement git.
 Will need to learn it.
+
+If we need content changes in the file i.e the new version of the file but the parent code should not be disturbed then we can create a branch.  
 Thanks!

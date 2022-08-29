@@ -1,1 +1,4 @@
 Let say this is one of the example file for the studying git.
+Github is one of the platform to implement git.
+Will need to learn it.
+Thanks!
